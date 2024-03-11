@@ -1,0 +1,10 @@
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\Datos\bin\Debug\Datos.dll.config
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\Datos\bin\Debug\Datos.dll
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\Datos\bin\Debug\Datos.pdb
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\Datos\bin\Debug\EntityFramework.dll
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\Datos\bin\Debug\EntityFramework.xml
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\Datos\obj\Debug\Datos.dll
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\Datos\obj\Debug\Datos.pdb

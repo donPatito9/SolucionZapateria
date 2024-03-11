@@ -1,0 +1,16 @@
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\ServiciosZapateria\bin\ServiciosZapateria.dll.config
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\ServiciosZapateria\bin\ServiciosZapateria.dll
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\ServiciosZapateria\bin\ServiciosZapateria.pdb
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\ServiciosZapateria\bin\Negocio.dll
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\ServiciosZapateria\bin\Datos.dll
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\ServiciosZapateria\bin\EntityFramework.dll
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\ServiciosZapateria\bin\Negocio.pdb
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\ServiciosZapateria\bin\Negocio.dll.config
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\ServiciosZapateria\bin\Datos.pdb
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\ServiciosZapateria\bin\Datos.dll.config
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\ServiciosZapateria\bin\EntityFramework.xml
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\ServiciosZapateria\obj\Debug\ServiciosZapateria.csproj.AssemblyReference.cache
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\ServiciosZapateria\obj\Debug\ServiciosZapateria.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\ServiciosZapateria\obj\Debug\ServiciosZapateria.csproj.CopyComplete
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\ServiciosZapateria\obj\Debug\ServiciosZapateria.dll
+C:\Users\jorge\OneDrive\Documentos\Proyectos VS\Solucion Zapateria\ServiciosZapateria\obj\Debug\ServiciosZapateria.pdb
